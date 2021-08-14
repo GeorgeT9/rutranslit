@@ -18,7 +18,7 @@ Python-модуль написанный на Rust. Предназначен д�
     
 Пример:
 ``` Python  
-  import rutranslit
+import rutranslit
 
 
 
